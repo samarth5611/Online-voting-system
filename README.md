@@ -1,12 +1,12 @@
 # Online Voting App
 
-## User Stories
+## Features
 
-- share my polls with my friends.
-- see the aggregate results of my polls.
-- delete polls that I decide I don't want anymore.
-- create a poll with any number of possible items.
-- unauthenticated or authenticated user, I can see and vote on everyone's polls.
+- Share my polls with my friends.
+- See the aggregate results of my polls.
+- Delete polls that I decide I don't want anymore.
+- Create a poll with any number of possible items.
+- Unauthenticated or authenticated user, I can see and vote on everyone's polls.
 - As an unauthenticated or authenticated user, I can see the results of polls in chart form. (This could be implemented using Chart.js)
 
 ## Getting Started
@@ -21,10 +21,10 @@ SECRET = 'ARandomGenratedkeyByusertokeephisauthenticationsecure'
 
 ## Built with
 
-- nodejs
-- express
-- mongodb
-- mongoose
-- bcrypt
-- jsonwebtoken
-- react
+- Node.js
+- Express.js
+- Mongodb
+- Mongoose
+- Bcrypt
+- Jsonwebtoken
+- React
